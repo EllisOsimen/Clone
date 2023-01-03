@@ -8,21 +8,23 @@ body {
 }
 .background{
     background-image:url("/upwk62049834-wikimedia-image-job572-1.jpg");
+    background-size: 1500px ;
     
 }
 
 h3 {
     font-family: 'Righteous', cursive;
-    font-size: xx-large;
+    font-size: 60px;
     text-align: center;
-    padding: 2em;
 }
 h1 {
     font-family: 'Righteous', cursive;
-    background-color: cyan;
+    background-image: url("/black.jpg");
     font-size: xx-large;
     text-align: center;
-    padding: 2em;
+    padding: 1em;
+    color: white;
+    background-size: 1500px;
 }
 
 p {
@@ -35,4 +37,14 @@ h2 {
 .searcher {
     text-align: center;
 }
-
+li {
+    display: inline;
+    margin: 0;
+    padding-inline: 40px;
+}
+header {
+    text-align: center;
+}
+.background a{
+    color: black;
+}
