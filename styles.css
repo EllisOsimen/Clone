@@ -1,8 +1,38 @@
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta+Malar:wght@200&display=swap');
 
+body {
+    background-color: rgb(226, 216, 216);
+    margin: 0;
+    
+}
+.background{
+    background-image:url("/upwk62049834-wikimedia-image-job572-1.jpg");
+    
+}
+
+h3 {
+    font-family: 'Righteous', cursive;
+    font-size: xx-large;
+    text-align: center;
+    padding: 2em;
+}
 h1 {
     font-family: 'Righteous', cursive;
+    background-color: cyan;
+    font-size: xx-large;
+    text-align: center;
+    padding: 2em;
 }
-header {
-    background-color: pink;
+
+p {
+    font-family: 'Mukta Malar', sans-serif;
+    text-align: center;
 }
+h2 {
+    text-align: center;
+}
+.searcher {
+    text-align: center;
+}
+
