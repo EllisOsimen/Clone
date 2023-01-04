@@ -16,10 +16,11 @@ h3 {
     font-family: 'Righteous', cursive;
     font-size: 60px;
     text-align: center;
+    color: pink;
 }
 h1 {
     font-family: 'Righteous', cursive;
-    background-image: url("/black.jpg");
+    background-image: url("/upwk62049834-wikimedia-image-job572-1.jpg");
     font-size: xx-large;
     text-align: center;
     padding: 1em;
@@ -47,4 +48,21 @@ header {
 }
 .background a{
     color: black;
+}
+input[type=button] {
+    background-color: orange;
+    border-radius: 1em;
+    cursor: pointer;
+    font-size: large;
+    font-family: 'Mukta Malar', sans-serif;
+}
+
+input[type=button] :hover {
+        background-color:orangered;
+        font-weight: normal;
+        
+}
+.searcher {
+    background-color: white;
+    padding: 2em;
 }
