@@ -64,5 +64,8 @@ input[type=button] :hover {
 }
 .searcher {
     background-color: white;
+    margin: 2em -1em 0;
     padding: 2em;
+    border-radius: 0.5em;
+    box-shadow: 10px 10px 10px rgb(0,0,0,0.3);
 }
